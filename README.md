@@ -65,7 +65,7 @@ To create an APK and install it on your Android phone:
 ---
 
 ## 📸 Screenshot
-![App Screenshot](screenshots/screenshot1.png)
+![App Screenshot](screenshots/screenshot1.PNG)
 
 ---
 
