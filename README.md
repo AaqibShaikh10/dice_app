@@ -48,7 +48,7 @@ To create an APK and install it on your Android phone:
 
 2. ***Locate the APK in:***
     ```bash
-    build/app/outputs/flutter-apk/app-release.apk.
+    build/app/outputs/flutter-apk/app-release.apk
 
 3. ***Transfer it to your phone and install it (enable "Unknown Sources" in Settings > Security).***
 
