@@ -25,7 +25,7 @@ Follow these steps to set up and run the app:
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/yourusername/dice_app.git
+   git clone https://github.com/AaqibShaikh10/dice_app.git
 
 2. **Navigate to the Project Directory:**
     ```bash
